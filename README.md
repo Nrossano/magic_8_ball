@@ -1,2 +1,4 @@
 # magic_8_ball
-description goes here
+Java command prompt/terminal based Magic 8 Ball game.
+
+Compile and execute Magic8Ball.java to play.
